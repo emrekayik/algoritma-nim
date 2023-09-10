@@ -10,3 +10,5 @@ algoritmanın olduğu dizine gidin
 
 > [Üçgen Uygulamaları](/genel/geometri/ucgen/README.md)
 > [Daire ve Küre Uygulamaları](/genel/geometri/daire/)
+
+---
