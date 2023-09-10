@@ -6,4 +6,6 @@
 
 3. Klavyeden iki dik kenarı girilen dik üçgenin hipotenüsünü hesaplayan algoritma (Pisagor Teoremi). [Algoritmaya Git](/genel/geometri/ucgen/ucgen3.nim)
 
-4. Klavyeden iki kenarı ve bunların arasındaki derece cinsinden açısı girilen üçgenin üçüncü kenarını hesaplayan program (Cosinus bağıntısı).
+4. Klavyeden iki kenarı ve bunların arasındaki derece cinsinden açısı girilen üçgenin üçüncü kenarını hesaplayan program (Cosinus bağıntısı).[Algoritmaya Git](/genel/geometri/ucgen/ucgen4.nim)
+
+5. Klavyeden tüm kenar uzunlukları girilen üçgenin alanını hesaplayan program (Heron formülü). [Algoritmaya Git](/genel/geometri/ucgen/ucgen5.nim)
