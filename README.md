@@ -1,5 +1,9 @@
 # Algoritma Nim
 
+## Çalıştırma
+algoritmanın olduğu dizine gidin
+
+
 ## İçindekiler
 
 ### Genel Uygulamalar
