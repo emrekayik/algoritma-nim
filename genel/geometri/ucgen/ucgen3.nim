@@ -12,4 +12,4 @@ var kenar2 = parseFloat(readLine(stdin))
 var hipotenus = math.pow(math.pow(kenar1, 2.0) + math.pow(kenar2, 2.0), (1/2))
 
 
-echo "Hipotenüs: ",hipotenus
+echo "Hipotenüs: ", hipotenus
